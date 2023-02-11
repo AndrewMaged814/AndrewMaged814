@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **andrewmaged814@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/2fm5wp8n](https://tinyurl.com/2fm5wp8n)
+- 📄 Know about my experiences [https://tinyurl.com/2hgua43z](https://tinyurl.com/2hgua43z)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
