@@ -29,4 +29,4 @@
 [![Skills](https://skillicons.dev/icons?i=linux,vscode,github,git,unity&perline=10)](https://skillicons.dev/) 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AndrewMaged814&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AndrewMaged814&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
