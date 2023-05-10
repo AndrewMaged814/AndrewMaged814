@@ -1,33 +1,32 @@
-### :man_technologist: &nbsp;About Me :
+<!-- ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg) -->
+![MasterHead](https://github.com/BEPb/BEPb/blob/main/src/header_.png?raw=true)
+<h1 align="center">Hi , I'm Andrew Maged </h1>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Undergraduate+Computer+Engineer+;Looking+for+Internships+" alt="Typing SVG" /></a>
+</div>
 
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+<!-- ![MasterHead](https://komarev.com/ghpvc/?username=HazemElakbawy&style=for-the-badge) -->
 
-- 🔭 I’m looking for an Internships
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-andrewmaged-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrewmaged)
-- 📖 Learn more about me: [![CV Badge](https://img.shields.io/badge/CV-AndrewMaged-orange?style=flat-square&logo=google-drive&logoColor=white&link=https://drive.google.com/file/d/your_cv_file_id/view)](https://drive.google.com/file/d/1ZP9fP4Ln-HAk8U1mDcPyCp92oaU9EhyX/view?usp=sharing)
+<div align="center">
+<h3>Connect with me:</h3>
 
-
----
-
-### 🛠 &nbsp;Languages and Tools :
-
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="OpenGL" alt="OpenGL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-</p> 
+<span>
+  
+[![Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/andrewmaged)
+</span>
 
 
----
+</div>
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="center">
+<h3>Languages:</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Skills](https://skillicons.dev/icons?i=cpp,py,cs&perline=10)](https://skillicons.dev/) 
+</div>
+<div align="center">
+<h3>Tools:</h3>
 
+[![Skills](https://skillicons.dev/icons?i=linux,vscode,github,git,unity&perline=10)](https://skillicons.dev/) 
+</div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AndrewMaged814&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
