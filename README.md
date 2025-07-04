@@ -2,7 +2,7 @@
 ![MasterHead](https://github.com/BEPb/BEPb/blob/main/src/header_.png?raw=true)
 <h1 align="center">Hi , I'm Andrew Maged </h1>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Undergraduate+Computer+Engineer+;Looking+for+Internships+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Software+Quality+Tester" alt="Typing SVG" /></a>
 </div>
 
 <!-- ![MasterHead](https://komarev.com/ghpvc/?username=HazemElakbawy&style=for-the-badge) -->
